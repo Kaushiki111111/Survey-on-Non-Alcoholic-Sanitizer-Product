@@ -1,1 +1,6 @@
+Motivation of the project:Demand of hand sanitizer during COVID-19 
+For knowing market sentiments for non-alcoholic hand sanitizer.
 
+-->Dataset was collected by circulating google form among various students ,family members.
+The data is collected using a random sampling technique and various data visualization methods like boxplots, bar graphs, histograms, violin plots, etc. 
+Used statistical methods like the central limit theorem and applied hypothesis testing to check the variation of features.
